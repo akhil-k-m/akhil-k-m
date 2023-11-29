@@ -1,5 +1,9 @@
 # 💫 About Me:
-Passionate Data Decoder: Transforming numbers into actionable insights.<br>Compelling Storyteller of Data: Bridging the gap between complex data trends and compelling narratives.<br>Versatile Achiever: Balancing analytical prowess with a flair for poetry, theater, and diverse creative expressions.<br>I’m currently learning Machine Learning and Python.<br>I’m looking to collaborate on Datasets for Analysis and Visualization projects.
+👩‍💻Passionate Data Decoder: Transforming numbers into actionable insights.<br>
+🚀Compelling Storyteller of Data: Bridging the gap between complex data trends and compelling narratives.<br>
+🎯Versatile Achiever: Balancing analytical prowess with a flair for poetry, theater, and diverse creative expressions.<br>I
+👯 I’m currently learning Machine Learning and Python.<br>
+🌱 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
 
 
 ## 🌐 Socials:
