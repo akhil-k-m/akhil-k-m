@@ -13,27 +13,27 @@
 
 # 🏆 What I've Been Up To:
 ### **Blackcoffer | Data Science Associate** (March 2024 - Present)
-🚀 Revolutionizing OCR workflows with advanced vision models and vLLM, cutting text extraction time by 25%.
-📊 Enhancing data visualization with Looker and Power BI dashboards, boosting insights by 20%.
-🤖 Optimizing LLaMA models for superior accuracy in medical text extraction, reducing errors by 15%.
-🛠 Automating data collection and retrieval using Python & Graph API, making life easier for analysts.
+🚀 Revolutionizing OCR workflows with advanced vision models and vLLM, cutting text extraction time by 25%. <br>
+📊 Enhancing data visualization with Looker and Power BI dashboards, boosting insights by 20%.<br>
+🤖 Optimizing LLaMA models for superior accuracy in medical text extraction, reducing errors by 15%.<br>
+🛠 Automating data collection and retrieval using Python & Graph API, making life easier for analysts.<>br
 
 ### **DPDzero | Data Analyst Intern** (Sept 2023 - Nov 2023)
-🔎 Analyzed 10+ datasets, uncovering valuable insights that guided smarter business decisions.
-📈 Designed Power BI dashboards that made stakeholders go “wow,” improving visualization clarity by 25%.
+🔎 Analyzed 10+ datasets, uncovering valuable insights that guided smarter business decisions.<br>
+📈 Designed Power BI dashboards that made stakeholders go “wow,” improving visualization clarity by 25%.<br>
 
 ### **NeoDocto Inc. | Machine Learning Intern** (June 2023 - Aug 2023)
-💬 Developed a chatbot that saved time and improved user engagement by 15%.
-📝 Applied NLP techniques to analyze text data, increasing processing accuracy by 20%.
+💬 Developed a chatbot that saved time and improved user engagement by 15%.<br>
+📝 Applied NLP techniques to analyze text data, increasing processing accuracy by 20%. <br>
 
 # 🚀 Cool Projects:
 ### **E-Commerce Sales Analysis | SQL, Power BI**
-🛍️ Turned raw sales data into actionable insights, boosting revenue targeting by 30%.
-📊 Built dashboards that helped businesses understand their customers better and optimize strategies.
+🛍️ Turned raw sales data into actionable insights, boosting revenue targeting by 30%.<br>
+📊 Built dashboards that helped businesses understand their customers better and optimize strategies.<br>
 
 ### **Deepfake Detection | Python, Deep Learning, CNN**
-🎭 Unmasking deepfakes using a custom 4-layer CNN model with 95%+ accuracy.
-📖 Published findings and contributions to advance research in deepfake detection.
+🎭 Unmasking deepfakes using a custom 4-layer CNN model with 95%+ accuracy.<br>
+📖 Published findings and contributions to advance research in deepfake detection.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akhil-k-m&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
